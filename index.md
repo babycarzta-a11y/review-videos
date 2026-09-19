@@ -13,3 +13,4 @@ Screen recordings from a physical iPhone 16 Plus (iOS 26.6.1), TestFlight builds
 - [Grail](grail.m4v)
 - [Wheel](wheel.m4v)
 - [T-Minus](t-minus.m4v)
+- [Aura](aura.m4v)
